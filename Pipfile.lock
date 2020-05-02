@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6a87bdc3217072a6e9c1570031ed349a83ebe2703b75f627db22014973cf4576"
+            "sha256": "18a20ad812727a01d6797422e51db83c5c4ffeab9d9ce5ba9d21d057e21cf3ea"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -156,5 +156,16 @@
             "version": "==1.11.2"
         }
     },
-    "develop": {}
+    "develop": {
+        "autopep8": {
+            "path": "C:/Users/iagbarakwe/Downloads/Programming/Softwares/Python Modules/autopep8-1.4.4.tar.gz"
+        },
+        "pycodestyle": {
+            "hashes": [
+                "sha256:95a2219d12372f05704562a14ec30bc76b05a5b297b21a5dfe3f6fac3491ae56",
+                "sha256:e40a936c9a450ad81df37f549d676d127b1b66000a6c500caa2b085bc0ca976c"
+            ],
+            "version": "==2.5.0"
+        }
+    }
 }
