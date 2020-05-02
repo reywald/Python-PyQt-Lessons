@@ -1,0 +1,46 @@
+{
+  "done": [
+    {
+      "assignedTo": {
+        "name": "iagbarakwe"
+      },
+      "category": "Programming Python GUI",
+      "creation_time": "2020-05-02T17:40:05.806Z",
+      "description": {
+        "content": "Install all dependencies for the PyQt5 environment",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "```mermaid\ngraph TD;\nA[Create git directory] --> B[Install python virtual enviroment];\nB --> C[Install PyQt5 library];\n```",
+        "mime": "text/markdown"
+      },
+      "id": "1",
+      "prio": 1,
+      "references": [],
+      "title": "Setup PyQt5 Environment"
+    }
+  ],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "iagbarakwe"
+      },
+      "category": "Programming Python GUI",
+      "creation_time": "2020-05-02T18:20:52.956Z",
+      "description": {
+        "content": "Create a basic gui window in PyQt5",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "```mermaid\ngraph TD;\nA[import QtWidgets] --> B[Create application object];\nB --> C[Create QWidget];\nC --> D[Show window];\nD --> E[Enter loop];\n```",
+        "mime": "text/markdown"
+      },
+      "id": "2",
+      "prio": 1,
+      "references": [],
+      "title": "Create a basic window"
+    }
+  ],
+  "testing": [],
+  "todo": []
+}
