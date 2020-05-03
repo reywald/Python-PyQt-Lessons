@@ -39,7 +39,26 @@
       "title": "Setup PyQt5 Environment"
     }
   ],
-  "in-progress": [],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "Samuel Agbarakwe"
+      },
+      "category": "Programming PyQt5",
+      "creation_time": "2020-05-03T14:45:09.959Z",
+      "description": {
+        "content": "Create a menu bar with clickable actions and sub-menus",
+        "mime": "text/markdown"
+      },
+      "details": {
+        "content": "```mermaid\ngraph LR;\n1[Create the Menu bar] --> 2[Create the Root Menus];\n2 --> 3[Create the Menu Actions];\n3 --> 4[Add the actions or sub-menus];\n```",
+        "mime": "text/markdown"
+      },
+      "id": "3",
+      "references": [],
+      "title": "Making Menu Bars"
+    }
+  ],
   "testing": [],
   "todo": []
 }
