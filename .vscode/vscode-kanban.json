@@ -37,9 +37,7 @@
       "prio": 1,
       "references": [],
       "title": "Setup PyQt5 Environment"
-    }
-  ],
-  "in-progress": [
+    },
     {
       "assignedTo": {
         "name": "Samuel Agbarakwe"
@@ -59,6 +57,7 @@
       "title": "Making Menu Bars"
     }
   ],
+  "in-progress": [],
   "testing": [],
   "todo": []
 }
